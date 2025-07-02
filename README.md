@@ -42,6 +42,22 @@ Drive link->   https://drive.google.com/drive/folders/179AakGiv_-ogJOHb_Jcuqiok9
 
 ---
 
+✅ Manual Testing
+
+This application has been manually tested on both Android Emulator and physical Android TV device to ensure stable and smooth user experience.
+
+Tested features include:
+
+🔄 Focus navigation using D-pad / TV remote.
+
+🎬 Video playback and seeking using ExoPlayer.
+
+🔙 Back button functionality from player screen to home.
+
+📶 API error handling, including no internet and fallback UI.
+
+📱 APK tested on Android Phone (basic functionality verified).
+
 ## 🗂️ Project Structure
 ```
 com.example.movieplayer
