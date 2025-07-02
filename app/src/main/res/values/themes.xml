@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MoviePlayer" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
